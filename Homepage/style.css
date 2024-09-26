@@ -37,6 +37,9 @@ li a {
   font-weight: bold;
   margin-right: 20px;
 }
+li input {
+  padding: 4px;
+}
 button {
   background-color: aqua;
   margin-left: 10px;
